@@ -1,21 +1,18 @@
-<<<<<<< HEAD
 # adhan-app
-A Flutter app for prayer times.
-=======
-# prayer
 
-A new Flutter project.
+A cross-platform mobile app for prayer times. The simple and intuitive UI makes this app easy for anyone to use. The necessary actions are provided to keep the app lightweight and fast. It is also customizable to suit your preferences.
 
-## Getting Started
+The app makes use of the [adhan](https://pub.dev/packages/adhan) package.
 
-This project is a starting point for a Flutter application.
+## Running
+Use `flutter run` to use the app in Android Studio or terminal. *Note: You must have Flutter installed on your machine*
 
-A few resources to get you started if this is your first Flutter project:
+The app will run on devices with at least Android 4.0.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Google Play Store
+Based on the development process, I would love to publish the app on the Google Play Store in the future for everyone to use.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> f21ccb6 (Initial commit)
+## License
+The project is under the MIT License.
+
+Feel free to contribute to the development of the app. 
